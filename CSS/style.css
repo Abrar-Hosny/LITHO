@@ -2,5 +2,14 @@
 :root{
 
     --main-color:#bf8c4c;
-    
+    --secondary-color: #232323;
+    --white-color: #fff;
+    --body-color:#828282;
+    --border-color:#e4e4e4;
+}
+
+
+body{
+    font-family: "Roboto" , sans-serif;
+    color: var(--body-color);
 }
