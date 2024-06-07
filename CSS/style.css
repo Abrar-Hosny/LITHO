@@ -1,10 +1,6 @@
-body{
-    background-color:rgb(221, 221, 221);
-}
+/* pseudo class for global style  */
+:root{
 
-.card{
+    --main-color:#bf8c4c;
     
-   background-color:rgb(28, 33, 56);
-
-
 }
